@@ -1,0 +1,8 @@
+blib
+inc
+pm_to_blib
+META.yml
+MANIFEST
+MANIFEST.*
+Makefile
+Makfile.old
